@@ -6,4 +6,4 @@ scikit-learn
 streamlit
 requests
 uvicorn
-scikit-learn==1.6.1
+scikit-learn==1.3.2
